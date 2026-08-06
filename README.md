@@ -1,6 +1,3 @@
-# AA_Final_Project
-
-
 # AI Assisted System for Prioritizing Government Contracts for
 ## Human Review
 1. Entity
