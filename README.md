@@ -1,5 +1,4 @@
-# AI Assisted System for Prioritizing Government Contracts for
-## Human Review
+# AI Assisted System for Prioritizing Government Contracts for Human Review
 1. Entity
 Government agencies award numerous contracts for technology, construction, consulting,
 equipment, and other services. The Canadian Public Procurement Integrity Lab is a fictional
