@@ -10,7 +10,6 @@ Contract Lens combines financial irregularity detection with AI assisted procure
 description analysis to assist government auditors in identifying the contracts that are most
 worthwhile reviewing.
 
-<br><br>
 
 2. Problem Definition
 The lab seeks to respond to the following query:
@@ -33,7 +32,6 @@ assigned?
 The objective is not to report fraud, instead the system should find trends that call for more
 human intervention
 
-<br><br>
 
 3. Stakeholder and Decision
 The primary stakeholder is a federal procurement auditor who plans regular contract reviews.
@@ -43,7 +41,6 @@ or value to a more methodical, evidence-based prioritization process. An auditor
 examine the top 1-5% of contracts with the highest irregularity scores thanks to a helpful
 output.
 
-<br><br>
 
 4. Dataset
 The complete dataset contains hundreds of thousands of federal contract records, a cleaned
@@ -70,7 +67,6 @@ The supplied dataset should be a cleaned subset of roughly 5,000-15,000 contract
 from a recent period and comprising only records with useful descriptions and essential
 financial fields, in order to keep the assignment manageable.
 
-<br><br>
 
 5. Proposed Dataset Preparation
 The Client will provide:
@@ -96,7 +92,6 @@ Basic cleaning may include:
 • removing records with unusable descriptions
 • preserving supplier and department names for aggregation
 
-<br><br>
 
 6. Success Criteria
 Instead of returning an overwhelming list of generic outliers, a successful solution should
